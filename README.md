@@ -1,5 +1,6 @@
 # DockerDemo
 1.Linux+aspnetcore+ngnix
+ 
 2.Linux+Docker+aspnetcore+ngnix
 
 花了一个周末时间,终于调通了,走了不少弯路
