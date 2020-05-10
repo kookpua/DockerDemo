@@ -77,8 +77,9 @@ server {
 ~~~
 
 参考资料:
+
  [Asp.Net Core 发布和部署（ MacOS + Linux + Nginx ）](https://www.cnblogs.com/savorboard/p/dotnet-core-publish-nginx.html)
-
+ 
  [ASP.NET Core Docker部署](https://www.cnblogs.com/savorboard/p/dotnetcore-docker.html)
-
+ 
  [centos 7 + Net Core 3.0 + Docker 配置说明（不含https）](https://www.cnblogs.com/nickchou/p/11810938.html)
